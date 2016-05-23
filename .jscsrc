@@ -108,7 +108,6 @@
     "safeContextKeyword": "PleaseUseFunctionDotPrototypeDotBind",
     "validateLineBreaks": "LF",
     "validateQuoteMarks": "'",
-    "esnext": true,
     "excludeFiles": [
         "node_modules/**"
     ],
